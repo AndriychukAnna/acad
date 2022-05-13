@@ -35,6 +35,10 @@ body {
     }
 }
 
+.section {
+    width: 100%;
+    background-color: #EDF3F9;
+}
 .list{
     list-style: none;
     display: flex;
@@ -113,6 +117,7 @@ background-color: rgb(233, 126, 39);
     justify-content: center;
     align-items: center;
     position: relative;
+    background-color: #fff;
 }
 
 .hero-img {
