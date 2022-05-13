@@ -54,9 +54,7 @@ body {
 .list-item:hover {
 background-color: rgb(233, 126, 39);
 }
-.list-item-link {
-  /* padding: 10px; */
-}
+
 .list-item-link-hov{
     color: #fff;
     text-decoration: none;
